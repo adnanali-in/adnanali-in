@@ -18,6 +18,7 @@ Currently Working with EdVenture Incubation Foundation on multiple aspects in th
 Helping Founders Market and Scale their products in the Incubator<br>
 Ex- Product Management Intern at Notifyfy.com - A Trillion Ventures Product<br>
 A code enthusiast learning how to build products from the future at CS.CODE.IN - A 21st Century CS Program<br>
+Polygon Guild Mage managing Polygon's Official Community / Guild in Hyderabad at Code For India's Campus<br>
 
 What am I building:<br>
 
@@ -33,7 +34,6 @@ Finance<br>
 Startups<br>
 Growth<br>
 Marketing<br>
-No Code<br>
 Innovations<br>
 Design<br>
 <br>
