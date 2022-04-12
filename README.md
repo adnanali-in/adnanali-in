@@ -14,11 +14,11 @@ I am a Third-year Engineering student completing my Majors in Computer Science. 
 
 Not just Learning to build New things but also growing and working on the Design, Marketing and Growth side of things. An entrepreneur by DNA building products and sending them to the market and scaling them.<br>
 
-Currently Working with EdVenture Incubation Foundation on multiple aspects in the hunt for finding India's Next Unicorn <br>
-Helping Founders Market and Scale their products in the Incubator<br>
-Ex- Product Management Intern at Notifyfy.com - A Trillion Ventures Product<br>
-A code enthusiast learning how to build products from the future at CS.CODE.IN - A 21st Century CS Program<br>
-Polygon Guild Mage managing Polygon's Official Community / Guild in Hyderabad at Code For India's Campus<br>
+Currently Working with EdVenture Incubation Foundation on multiple aspects in the hunt for finding India's Next Unicorn <br><br>
+Helping Founders Market and Scale their products in the Incubator<br><br>
+Ex- Product Management Intern at Notifyfy.com - A Trillion Ventures Product<br><br>
+A code enthusiast learning how to build products from the future at CS.CODE.IN - A 21st Century CS Program<br><br>
+Polygon Guild Mage managing Polygon's Official Community / Guild in Hyderabad at Code For India's Campus<br><br>
 
 What am I building:<br>
 
