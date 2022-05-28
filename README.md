@@ -14,15 +14,16 @@ I am a Third-year Engineering student completing my Majors in Computer Science. 
 
 Not just Learning to build New things but also growing and working on the Design, Marketing and Growth side of things. An entrepreneur by DNA building products and sending them to the market and scaling them.<br>
 
+
+Impacting Lifes through power of Code at codeforindia.com<br><br>
+
 Currently Working with EdVenture Incubation Foundation on multiple aspects in the hunt for finding India's Next Unicorn Helping Founders Market and Scale their products in the Incubator<br><br>
-Ex- Product Management Intern at Notifyfy.com - A Trillion Ventures Product<br><br>
 A code enthusiast learning how to build products from the future at CS.CODE.IN - A 21st Century CS Program<br><br>
 Polygon Guild Mage managing Polygon's Official Community / Guild in Hyderabad at Code For India's Campus<br><br>
+Intern at fee.app - Accept Crypto Payments with Ease <br><br>
+Ex- Product Management Intern at Notifyfy.com - A Trillion Ventures Product<br><br>
 
-What am I building:<br>
 
-Bizrah Health & Lifestyle Pvt. Ltd. - A platform that will be focusing on the all-around development of humans in a world full of toxicants in a healthy and friendly way.<br>
-Cupping.app - This is our flagship product with a motive to reincarnate the spirit of cupping therapy to heal people.<br><br>
 
 Passionate and Continuously Learning or Talking About:<br>
 
