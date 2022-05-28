@@ -15,7 +15,8 @@ I am a Third-year Engineering student completing my Majors in Computer Science. 
 Not just Learning to build New things but also growing and working on the Design, Marketing and Growth side of things. An entrepreneur by DNA building products and sending them to the market and scaling them.<br>
 
 
-Impacting Lifes through power of Code at codeforindia.com<br><br>
+
+<b>Impacting Lifes through power of Code at codeforindia.com</b><br><br>
 
 Currently Working with EdVenture Incubation Foundation on multiple aspects in the hunt for finding India's Next Unicorn Helping Founders Market and Scale their products in the Incubator<br><br>
 A code enthusiast learning how to build products from the future at CS.CODE.IN - A 21st Century CS Program<br><br>
