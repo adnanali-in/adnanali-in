@@ -36,7 +36,6 @@ Startups<br>
 Growth<br>
 Marketing<br>
 Innovations<br>
-Design<br>
 <br>
 
 v2.12.21
