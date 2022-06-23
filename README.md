@@ -16,7 +16,7 @@ Not just Learning to build New things but also growing and working on the Design
 
 
 
-<b>Impacting Lifes through power of Code at codeforindia.com</b><br><br>
+<b>Impacting Lives through power of Code at codeforindia.com</b><br><br>
 
 Currently Working with EdVenture Incubation Foundation on multiple aspects in the hunt for finding India's Next Unicorn Helping Founders Market and Scale their products in the Incubator<br><br>
 A code enthusiast learning how to build products from the future at CS.CODE.IN - A 21st Century CS Program<br><br>
