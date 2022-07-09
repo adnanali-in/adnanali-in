@@ -23,7 +23,7 @@ A code enthusiast learning how to build products from the future at CS.CODE.IN -
 Polygon Guild Mage managing Polygon's Official Community / Guild in Hyderabad at Code For India's Campus<br><br>
 Intern at fee.app - Accept Crypto Payments with Ease <br><br>
 Ex- Product Management Intern at Notifyfy.com - A Trillion Ventures Product<br><br>
-
+Exploring the world of web3
 
 
 Passionate and Continuously Learning or Talking About:<br>
