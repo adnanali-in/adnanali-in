@@ -46,4 +46,4 @@ v2.12.21
 [![Twitter](https://img.shields.io/badge/Twitter-%40adnanali_in-%231DA1F2)](https://twitter.com/adnanali_in) 
 [![Instagram](https://img.shields.io/badge/Instagram-adnan_developer-%23bc2a8d%09)](https://instagram.com/adnan_developer)
 [![Linkedin](https://img.shields.io/badge/Linked%20in-AdnanAliKhan-blue)](https://www.linkedin.com/in/adnanalikhan28)
-[![Email](https://img.shields.io/badge/Email-mail@adnanali.in-red)](mailto:mail@adnanali.in)
+[![Email](https://img.shields.io/badge/Email-adnan@code.in-red)](mailto:adnan@code.in)
