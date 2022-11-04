@@ -1,6 +1,6 @@
 ### <h1 align="center">Adnan Ali Khan</h1>
 <h3 align="center"> Program Lead at CodeforIndia.com | Fellow at CS.CODE.IN - Class of 2021 | X- Team EdVenture Park | Guild Mage - Polygon | GDSC Lead | Building fee.app</h3>
-  
+  <br />
 
 - I'm currently working as a Program Lead at Code for India Foundation where I help people to build their Careers in Tech.  
   
