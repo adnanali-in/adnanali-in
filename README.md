@@ -1,4 +1,4 @@
-### <h1>Adnan Ali Khan</h1>
+### <h1 align="center">Adnan Ali Khan</h1>
 <h3 align="center"> Program Lead at CodeforIndia.com | Fellow at CS.CODE.IN - Class of 2021 | X- Team EdVenture Park | Guild Mage - Polygon | GDSC Lead | Building fee.app</h3>
   
 
