@@ -1,19 +1,31 @@
-### <div align="center">I'm Adnan Ali Khan, Program Lead at CodeforIndia.com | Fellow at CS.CODE.IN - Class of 2021 | X- Team EdVenture Park | Guild Mage - Polygon | GDSC Lead | Building fee.app</div>  
+### <h1 align="center">Adnan Ali Khan</h1>
+<h3 align="center"> Program Lead at CodeforIndia.com | Fellow at CS.CODE.IN - Class of 2021 | X Team - EdVenture Park | Guild Mage - Polygon | GDSC Lead | Building fee.app</h3>
+  <br />
+
+- I'm currently working as a Program Lead at Code for India Foundation where I help people to build their Careers in Tech.  
   
 
-- I am Currently working as a Program Lead at Code for India Foundation where I help people to build their careers in tech.  
-  
-
-- I have Been working on a lot of real-time projects with loads of experince in Full Stack Web Development  
+- I have been working on a lot of real-time projects that help me gain loads of experince in Full Stack Web Development.
   
 
 - Built Designed and Shipped Secure Full Stack Web Applications on Cloud with Experiences in Automating the Cloud Pipelines for Deployment  
   
 
-- Worked with Teams and worked on Collaborative Code Base with multiple teams and developers.  
+- I've also worked with Teams and Collaborative Code Base with multiple developers.  
   
 
 <br/>  
+
+**Obsessed over** 🤩<br>
+
+- Startups🚀
+- Web3.0💻
+- Marketing 🤳
+- Designing 💎
+- Product Development 🧑‍💻
+
+
+<hr />
 
 
 ## My Skill Set  
