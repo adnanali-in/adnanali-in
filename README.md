@@ -5,7 +5,7 @@
 - I'm currently working as a Program Lead at Code for India Foundation where I help people to build their Careers in Tech.  
   
 
-- I have been working on a lot of real-time projects that help me gain loads of experince in Full Stack Web Development.
+- I have been working on a lot of real-time projects that help me gain loads of experience in Full Stack Web Development.
   
 
 - Built Designed and Shipped Secure Full Stack Web Applications on Cloud with Experiences in Automating the Cloud Pipelines for Deployment  
