@@ -1,8 +1,8 @@
 ### <h1 align="center">Adnan Ali Khan</h1>
-<h3 align="center"> Program Lead at CodeforIndia.com | Fellow at CS.CODE.IN - Class of 2021 | X Team - EdVenture Park | Guild Mage - Polygon | GDSC Lead | Building fee.app | Software Development Engineer SDE - Bento Labs </h3>
+<h3 align="center"> Building Propflo.ai - AI Driven Real Estate CRM </h3>
   <br />
 
-- I'm currently working as a Program Lead at Code for India Foundation where I help people to build their Careers in Tech.  
+- I'm currently working as a Software Engineer at Propflo.ai, where I lead integrations with multiple platforms and removing third party dependecies.
   
 - I have been working on a lot of real-time projects that help me gain loads of experience in Full Stack Web Development.
   
@@ -20,7 +20,6 @@
 **Obsessed over** 🤩<br>
 
 - Startups🚀
-- Web3.0💻
 - Marketing 🤳
 - Designing 💎
 - Product Development 🧑‍💻
