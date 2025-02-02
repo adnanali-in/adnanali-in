@@ -2,9 +2,9 @@
 <h3 align="center"> Building Propflo.ai - AI Driven Real Estate CRM </h3>
   <br />
 
-- I'm currently working as a Software Engineer at Propflo.ai, where I lead integrations with multiple platforms and removing third party dependecies.
+- I'm currently working as a Software Engineer at Propflo.ai, where I lead integrations with multiple platforms and eliminate any third party dependencies.
   
-- I have been working on a lot of real-time projects that help me gain loads of experience in Full Stack Web Development.
+- I have been working on a lot of real-time projects that helped me gain loads of experience in Full Stack Web Development.
   
 - Built Designed and Shipped Secure Full Stack Web Applications on Cloud with Experiences in Automating the Cloud Pipelines for Deployment  
   
