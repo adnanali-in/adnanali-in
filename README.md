@@ -1,3 +1,8 @@
+<h2 align="center">Adnan Ali Khan</h1>
+<h3 align="center"> Full Stack Developer | MERN/MEAN Stack | Scalable Cloud & AI- Powered Web Solutions | Built Chatbots & Messaging Systems for High-Volume Notifications | Passionate About Open Source & Mentoring Future Developers </h3>
+<hr />
+
+
 I am passionate about crafting seamless digital experiences and building scalable web applications
 that solve real-world problems. With over 4 years of hands-on experience as a Full Stack Developer, I
 specialize in delivering high-performance solutions using the MERN and MEAN stacks. My expertise
