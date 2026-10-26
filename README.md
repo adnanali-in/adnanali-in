@@ -21,4 +21,4 @@ I am currently looking for new ways to advance and contribute to a dynamic organ
 contact me if you know of any opportunities that match my skills or if you want to connect.
 Thank you for visiting my profile!
 
-You can contact me at +91 8247026579 or via email at adnanali.in@gmail.com
+You can contact me at +1 (646) 280-0451 or via email at adnanali.in@gmail.com
